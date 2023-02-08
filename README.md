@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m a Computer Science graduate
+- 🌱 I’m currently studying data science
+
+On my profile, you will find projects that demonstrate my skills and knowledge in the field.
+Always willing to learn and expand my knowloadge.
 
 <!--
 **HamzaManai/HamzaManai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
